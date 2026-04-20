@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "name": "Story Book",
+    "title": "A beautiful collection of short moral stories.",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/premium-vector/stack-books_119631-472.jpg?w=2000"
+  },
+  {
+    "id": 2,
+    "name": "Science Book",
+    "title": "Understand the fundamentals of physics and chemistry.",
+    "price": 199,
+    "category": "Paid",
+    "image": "https://img.freepik.com/premium-vector/stack-books_119631-472.jpg?w=2000"
+  },
+  {
+    "id": 3,
+    "name": "Mathematics Book",
+    "title": "Complete guide to algebra, calculus and geometry.",
+    "price": 149,
+    "category": "Paid",
+    "image": "https://img.freepik.com/premium-vector/stack-books_119631-472.jpg?w=2000"
+  },
+  {
+    "id": 4,
+    "name": "History Book",
+    "title": "Explore ancient and modern world history.",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/premium-vector/stack-books_119631-472.jpg?w=2000"
+  },
+  {
+    "id": 5,
+    "name": "Programming Book",
+    "title": "Learn programming from beginner to advanced level.",
+    "price": 299,
+    "category": "Paid",
+    "image": "https://img.freepik.com/premium-vector/stack-books_119631-472.jpg?w=2000"
+  },
+  {
+    "id": 6,
+    "name": "English Grammar",
+    "title": "Improve your English grammar and vocabulary.",
+    "price": 99,
+    "category": "Paid",
+    "image": "https://img.freepik.com/premium-vector/stack-books_119631-472.jpg?w=2000"
+  },
+  {
+    "id": 7,
+    "name": "Motivational Book",
+    "title": "Boost your confidence and personal growth.",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/premium-vector/stack-books_119631-472.jpg?w=2000"
+  },
+  {
+    "id": 8,
+    "name": "Computer Networks",
+    "title": "Learn networking concepts and protocols easily.",
+    "price": 249,
+    "category": "Paid",
+    "image": "https://img.freepik.com/premium-vector/stack-books_119631-472.jpg?w=2000"
+  },
+  {
+    "id": 9,
+    "name": "Data Structures",
+    "title": "Master arrays, linked lists, stacks and queues.",
+    "price": 199,
+    "category": "Paid",
+    "image": "https://img.freepik.com/premium-vector/stack-books_119631-472.jpg?w=2000"
+  },
+  {
+    "id": 10,
+    "name": "Artificial Intelligence",
+    "title": "Introduction to AI concepts and machine learning basics.",
+    "price": 349,
+    "category": "Paid",
+    "image": "https://img.freepik.com/premium-vector/stack-books_119631-472.jpg?w=2000"
+  },
+  {
+    "id": 11,
+    "name": "General Knowledge",
+    "title": "Improve your awareness with updated general knowledge topics.",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/premium-vector/stack-books_119631-472.jpg?w=2000"
+  }
+]
